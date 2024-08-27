@@ -1,0 +1,48 @@
+[33mcommit 522445a28c8b163f9f1f6d739206aff69365ad94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Tue Aug 27 18:14:57 2024 -0500
+
+    Agrege suscripcion , cambien la cabecera maestra y puse todoi azul
+
+[33mcommit 7bb1368c4a3fabc0ff4e86b9f98118178b6cf630[m
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Tue Aug 27 17:49:36 2024 -0500
+
+    volvi a una tipografia menos controversial
+
+[33mcommit 38194ff9a2096258500bf392e2af4bea4d694f80[m
+Merge: cdfbf3e 8fd688b
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Tue Aug 27 17:41:20 2024 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit cdfbf3e1f26dd3dc4fd7f0bf251faf2f0fa5d075[m
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Tue Aug 27 17:36:59 2024 -0500
+
+    agregado el contenido adicional del blog y una mejor tipografia
+
+[33mcommit 8fd688b9afa8960b442a32c724a63e5ea68bd5c4[m
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Tue Aug 27 17:30:37 2024 -0500
+
+    finalizada la cabecera con diseño azul
+
+[33mcommit d43a3488167959f8cfe3ae93c05c744255b3b3bb[m
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Mon Aug 26 16:35:11 2024 -0500
+
+    estructura inicial de la cabecera
+
+[33mcommit 1092f04f6d7a5e22ec5d087f6e1b7c850d2cd942[m
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Mon Aug 26 16:09:48 2024 -0500
+
+    hay que arreglarlo
+
+[33mcommit ab925686b8dd577dffdf084f8ab6253c3b3da82e[m
+Author: Ricardo Sanchez <ricardo.risaga@gmail.com>
+Date:   Thu Aug 22 21:55:32 2024 -0500
+
+    commit al master del blogpost en su version mas reciente
